@@ -1,6 +1,6 @@
 # Sobre mim:
 ## Olá eu sou o **Joelson**! Analista de Dados Júnior 👨‍💻
-### Atualmente estou cursando **ADS** na **FASUL**!
+### Atualmente estou cursando **ADS** na **UNIASSELVI**!
 <br><br>
 
 #### 💻 Habilidades
